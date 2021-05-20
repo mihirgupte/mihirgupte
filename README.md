@@ -14,4 +14,4 @@ Here are some things about me :-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirgupte&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Featured Projects -
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihirgupte&repo=gameblob)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihirgupte&repo=gameblob)](https://github.com/mihirgupte/gameblob)
