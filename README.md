@@ -15,3 +15,4 @@ Here are some things about me :-
 
 ### Featured Projects -
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihirgupte&repo=gameblob)](https://github.com/mihirgupte/gameblob)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihirgupte&repo=pscan-hadoop)](https://github.com/mihirgupte/pscan-hadoop)
