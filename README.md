@@ -9,10 +9,11 @@ Here are some things about me :-
 
 ### Some intersting stats of my profile -
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirgupte&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirgupte&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirgupte&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirgupte&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Featured Projects -
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihirgupte&repo=gameblob)](https://github.com/mihirgupte/gameblob)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihirgupte&repo=pscan-hadoop)](https://github.com/mihirgupte/pscan-hadoop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihirgupte&repo=gameblob&theme=tokyonight)](https://github.com/mihirgupte/gameblob)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihirgupte&repo=pscan-hadoop&theme=tokyonight)](https://github.com/mihirgupte/pscan-hadoop)
