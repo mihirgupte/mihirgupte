@@ -1,7 +1,7 @@
 ## Hey there, my name is Mihir and this is my profile!
 
 Here are some things about me :-
-- I'm a second year BTech Computer Science student from Vellore Institute of Technology.
+- I'm a third year BTech Computer Science student from Vellore Institute of Technology.
 - My interests currently lie in Full Stack Web Development and Machine Learning.
 - I'm also interested in writing and implementing research papers!
 - Other than that I love building random, obscure projects.
