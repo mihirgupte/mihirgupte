@@ -1,19 +1,37 @@
-## Hey there, my name is Mihir and this is my profile!
+# Hi there, I'm Mihir Gupte 👋
 
-Here are some things about me :-
-- I'm a third year BTech Computer Science student from Vellore Institute of Technology.
-- My interests currently lie in Full Stack Web Development and Machine Learning.
-- I'm also interested in writing and implementing research papers!
-- Other than that I love building random, obscure projects.
-- Currently coordinating the Data Analytics Club in my college.
+---
 
-### Some intersting stats of my profile -
+## 🔬 Research Focus & Publications
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirgupte&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+* **[Lost-in-the-Middle in Industrial Contexts](https://arxiv.org/pdf/2511.13900)** * Evaluated 7-8B SOTA models on the **GM-Extract** benchmark.
+    * Investigated spatial retrieval failures and "middle-context" performance drops.
+* **[Auto-formalization for LLM Verification](https://arxiv.org/pdf/2511.11829)** * Framework for translating LLM reasoning into formal specifications.
+    * Achieving "closed-loop" verification against ground truth data.
+* **[Implicit Knowledge for Hierarchical RAG](https://arxiv.org/pdf/2510.10806)** * Developed a novel method for retrieving tree-structured data in vector databases.
+    * Improved efficiency for complex engineering documentation.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirgupte&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-### Featured Projects -
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihirgupte&repo=gameblob)](https://github.com/mihirgupte/gameblob)
+## 💼 Work & Open Source Policy
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihirgupte&repo=pscan-hadoop)](https://github.com/mihirgupte/pscan-hadoop)
+Most of my codebase is developed within **private enterprise environments** (including work with engineering teams at General Motors). 
+
+* **Note on Public Repos:** My GitHub activity does not reflect my daily output, as the majority of my work involves proprietary industrial work.
+* **Open Research:** While the core implementation code is private, I am committed to publishing the **methodologies, benchmarks (like GM-Extract), and theoretical findings** via ArXiv and research conferences.
+
+---
+
+## 🛠️ Technical Domain
+
+- **Research Interests:** LLM Evaluation, Neuro-symbolic AI, Retrieval Augmented Generation (RAG), Formal Verification.
+- **Expertise:** Long-context optimization, hierarchical data structures, and automated truth-verification pipelines.
+- **Stack:** Python, PyTorch, Hugging Face, LangChain, Vector Databases (Milvus/Pinecone/Weaviate).
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/mihir-gupte-0408/
+- **Google Scholar:** https://scholar.google.com/citations?user=y1WEYT0AAAAJ
+- **Email:** mihir.a.gupte@gmail.com
